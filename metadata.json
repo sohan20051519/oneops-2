@@ -1,0 +1,5 @@
+{
+  "name": "OneOps",
+  "description": "A SaaS platform where developers can connect their Git repositories to have their applications automatically built, deployed, and monitored with zero configuration.",
+  "requestFramePermissions": []
+}
